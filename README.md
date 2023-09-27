@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
-<h3 align="center">Self-proclaimed JavaScript wizard. Proven track record of creating and implementing successful front and back-end web applications. Experienced in leadership and mentorship role. Self-motivated individual looking to bring my skills to a tech company with global reach. 2006 Time Magazine Person of the Year!</h3>
+<p align="center">Self-proclaimed JavaScript wizard. Proven track record of creating and implementing successful front and back-end web applications. Experienced in leadership and mentorship role. Self-motivated individual looking to bring my skills to a tech company with global reach. 2006 Time Magazine Person of the Year!</p>
 
 - 👨‍💻 [https://marko-vasic.netlify.app/](https://marko-vasic.netlify.app/)
 
